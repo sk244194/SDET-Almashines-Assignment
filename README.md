@@ -1,6 +1,5 @@
 # AlmaShines Signup Automation
-
-This project contains automated test cases for the AlmaShines signup flow using Selenium WebDriver, Pytest, and the Page Object Model (POM).
+Replace the generated email address with an accessible test email account to receive the OTP for manual verification (in test_signup.py) .
 
 ## Tech Stack
 
